@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NappyCap
+- 👀 I’m currently employed as a Security Analyst
+- 🌱 I’m currently learning DFIR - Threat Hunting and Digital Forensics
+- 💞️ I’m looking to collaborate on any projects related to Python and creating tools 
